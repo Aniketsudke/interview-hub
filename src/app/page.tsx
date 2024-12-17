@@ -11,7 +11,6 @@ import {
   DollarSign,
   Award,
   TrendingUp,
-  ChevronDown,
   Check,
 } from "lucide-react";
 import {
