@@ -31,7 +31,7 @@ const services = [
 
 export default function Home() {
   const [mounted, setMounted] = useState(false);
-
+  console.log(mounted);
   useEffect(() => {
     setMounted(true);
   }, []);
