@@ -25,7 +25,7 @@ const services = [
   "Mock Interviews",
   "Interview Preparation Resources",
   "One-On-One Mentorship",
-  "Resume Building",
+  "Siddhi",
   "Expert Feedback",
 ];
 
