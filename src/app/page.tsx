@@ -37,7 +37,11 @@ export default function Home() {
   }, []);
 
   return (
+<<<<<<< HEAD
     // dev1
+=======
+    // dev2 only
+>>>>>>> dev2
     <div className="relative overflow-hidden">
       {/* Hero Section */}
       <section className="relative min-h-[90vh] bg-gradient-to-br from-white to-pink-50">
