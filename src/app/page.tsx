@@ -37,6 +37,7 @@ export default function Home() {
   }, []);
 
   return (
+    // dev2 only
     <div className="relative overflow-hidden">
       {/* Hero Section */}
       <section className="relative min-h-[90vh] bg-gradient-to-br from-white to-pink-50">
