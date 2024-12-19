@@ -22,8 +22,8 @@ import {
 import Pricing from "@/components/pricing";
 
 const services = [
-  "Mock Interviews",
-  "Interview Preparation Resources",
+  "Aniket",
+  "Sudke",
   "One-On-One Mentorship",
   "Resume Building",
   "Expert Feedback",
@@ -37,6 +37,7 @@ export default function Home() {
   }, []);
 
   return (
+    // dev1
     // dev2 only
     <div className="relative overflow-hidden">
       {/* Hero Section */}
@@ -49,6 +50,7 @@ export default function Home() {
           }}
         ></div>
 
+        {/* Content */}
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 pt-20 pb-32">
           <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
             {/* Left Column */}
